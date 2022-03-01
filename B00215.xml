@@ -1,0 +1,554 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A pleasant new ballad to sing both even and morne, of the bloody murther of Sir John Barley-corne. To the tune of, Shall I lye beyond thee.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1630</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00215</idno>
+            <idno type="STC">STC 1433.7</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[342]</idno>
+            <idno type="EEBO-CITATION">99884397</idno>
+            <idno type="PROQUEST">ocm99884397</idno>
+            <idno type="VID">183097</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00215)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183097)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[181])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A pleasant new ballad to sing both even and morne, of the bloody murther of Sir John Barley-corne. To the tune of, Shall I lye beyond thee.</title>
+               </titleStmt>
+               <extent>1 sheet([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wright, and are to be sold at his shop in Guilt-spurre street at the signe of the Bible,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[ca. 1630]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "As I went through the North coun-(trey ..."</note>
+                  <note>Publication date suggested by STC.</note>
+                  <note>Includes 2 ballads; second ballad has title: A new ballad for you to looke on, how Mault doth deale with every one.</note>
+                  <note>Cut in half, mounted with second ballad first.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Murder --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="342" facs="tcp:183097:1" rendition="simple:additions"/>
+            <head>A new Ballad for you to looke on, How Mault doth deale with every one.</head>
+            <opener>To the tune of, <hi>Triumph and Ioy.</hi>
+            </opener>
+            <lg>
+               <l>MAs Mault he is a Genleman,</l>
+               <l>And hath béene ſince the world began,</l>
+               <l>I neuer knew yet any man</l>
+               <l>that could match with maſter Mault ſir</l>
+            </lg>
+            <lg>
+               <l>I neuer knew any match Mault but once,</l>
+               <l>The Miller with his grinding ſtones.</l>
+               <l>He laid them ſo cloſe that he cruſht his bones,</l>
+               <l>you neuer knew the like ſir.</l>
+            </lg>
+            <lg>
+               <l>Mault, Mault, thou art a flowre,</l>
+               <l>Thou art beloued in euery bowre,</l>
+               <l>Thou canſt not be miſſing one halfe howre.</l>
+               <l>you neuer ſaw the like ſir,</l>
+            </lg>
+            <lg>
+               <l>For laying of his ſtones ſo cloſe,</l>
+               <l>Mault gaue the Miiler a copper noſe,</l>
+               <l>Saying thou and I will neuer be foes,</l>
+               <l>but vnto thée I ſticke ſir.</l>
+            </lg>
+            <lg>
+               <l>Mault gaue the Miller ſuch a blow,</l>
+               <l>That from his horſe he fell full low,</l>
+               <l>He taught him his maſter Mault for to know,</l>
+               <l>you neuer ſaw the like ſir.</l>
+            </lg>
+            <lg>
+               <l>Our hoſteſſe maid ſhe was to blame,</l>
+               <l>She ſtole maſter Mault away from her dame,</l>
+               <l>And in her belly ſhe hid the ſame,</l>
+               <l>you neuer ſaw the like ſir,</l>
+            </lg>
+            <lg>
+               <l>So when the Mault did worke in her head,</l>
+               <l>Twice a day ſhe would be ſped,</l>
+               <l>At night ſhe could not goe to bed,</l>
+               <l>nor ſcarce ſtand on her féet ſir.</l>
+            </lg>
+            <lg>
+               <l>Then came in the maſter Smith,</l>
+               <l>And ſaid that Mault he was a théefe.</l>
+               <l>But Mault gaue him ſuch a daſh in the téeth;</l>
+               <l>you neuer ſaw the like ſir,</l>
+            </lg>
+            <lg>
+               <l>For when his Iron was hot and red,</l>
+               <l>He had ſuch an ach all in his head,</l>
+               <l>The Smith was faine to get him to bed,</l>
+               <l>for then he was very ſicke ſir.</l>
+            </lg>
+            <lg>
+               <l>The Carpender came a péece to ſquare,</l>
+               <l>He had Mault come out if he dare,</l>
+               <l>He would empty his belly, and beat his ſides bare</l>
+               <l>that he knew not where to ſit ſir.</l>
+            </lg>
+            <lg>
+               <l>To fire he went with an arme full of chips,</l>
+               <l>Mault hit him right betwéene his lips,</l>
+               <l>And made him lame in both his hips,</l>
+               <l>you neuer ſaw the like ſir.</l>
+            </lg>
+            <lg>
+               <l>The Shooe-maker ſitting vpon his ſeat</l>
+               <l>With maſter Mault he began to fret,</l>
+               <l>He ſaid he would the knaue ſo beat,</l>
+               <l>you neuer ſaw the like ſir.</l>
+            </lg>
+            <lg>
+               <l>Mault péept his head out of a hall,</l>
+               <l>The Shooe-maker ſaid, he would drinke him vp al,</l>
+               <l>They tumbled together till downe they did fall,</l>
+               <l>you neuer ſaw the like ſir.</l>
+            </lg>
+            <lg>
+               <l>The Weauer being in his loome,</l>
+               <l>He threatned maſter Mault to bum,</l>
+               <l>When he had knit on to the thrum,</l>
+               <l>you neuer ſaw the like ſir,</l>
+            </lg>
+            <lg>
+               <l>And ſuch a Court ſome Weauers held,</l>
+               <l>They would pay our Hoſtes when they had feld,</l>
+               <l>But when euery one had his part and deald,</l>
+               <l>they knew not where to ſit ſir.</l>
+            </lg>
+            <lg>
+               <l>The Tinker he tooke the Weauers part</l>
+               <l>Becauſe he is touching vnto his Art,</l>
+               <l>He tooke the pot and dranke a quart,</l>
+               <l>the world was very quicke ſir.</l>
+            </lg>
+            <lg>
+               <l>Mault had of him his owne deſire,</l>
+               <l>He made him tumble into the fire,</l>
+               <l>And there he loſt his burling ire,</l>
+               <l>he hath not found it yet ſir.</l>
+            </lg>
+            <lg>
+               <l>The Taylor he came in to grinde his ſheares,</l>
+               <l>Mault and he were together by the eares,</l>
+               <l>Great is the company Mault ſtill reares,</l>
+               <l>you neuer ſaw the like ſir.</l>
+            </lg>
+            <lg>
+               <l>For when his preſſing Iron was hot,</l>
+               <l>He preſſed a boord in ſtead of a coat,</l>
+               <l>And ſayled home in a fether-bed boat,</l>
+               <l>you neuer ſaw the like ſir,</l>
+            </lg>
+            <lg>
+               <l>So then the Tinker did ſound his pan,</l>
+               <l>Then ſaid maſter Mault I muſt be gone,</l>
+               <l>I am the good fellow that helpeth each one,</l>
+               <l>you neuer ſaw the like ſir.</l>
+            </lg>
+            <lg>
+               <l>The Tinker then that he was faine,</l>
+               <l>With Mault to haue about or twaine,</l>
+               <l>Mault hit him ſore in euery vaine,</l>
+               <l>you neuer ſaw the like ſir.</l>
+            </lg>
+            <lg>
+               <l>Then beſpake the Tinker anon</l>
+               <l>He ſaid he would proue himſelfe a man,</l>
+               <l>He laid on Mault till the bouſſe was gone,</l>
+               <l>the Bung and the Tinker fell ſicke ſir.</l>
+            </lg>
+            <lg>
+               <l>The Sayler he did curſe and ban,</l>
+               <l>He bad the boy, goe tap the can,</l>
+               <l>Ile haue about with Mault anan,</l>
+               <l>you neuer ſaw the like ſir.</l>
+            </lg>
+            <lg>
+               <l>Aboord they want to try their match,</l>
+               <l>And there they playd at hop and catch,</l>
+               <l>Mault beſtowed him vnder the hatch,</l>
+               <l>and made him kéepe the ſhip ſir.</l>
+            </lg>
+            <lg>
+               <l>Then came the Chapman trauelling by,</l>
+               <l>And ſaid, my maſters I will be w'ye,</l>
+               <l>In déed maſter Mault my mouth is dry.</l>
+               <l>I will gnaw you with my teeth ſir.</l>
+            </lg>
+            <lg>
+               <l>The Chapman he laid on a pace,</l>
+               <l>Till ſtore of blood came in his face,</l>
+               <l>But Mault brought him in ſuch a caſe,</l>
+               <l>you neuer ſaw the like ſir.</l>
+            </lg>
+            <lg>
+               <l>The Maſon came an Ouen to make,</l>
+               <l>The Bricklayer he his part did take,</l>
+               <l>They bound Mault to the good-ale ſtake,</l>
+               <l>you neuer ſaw the like ſir.</l>
+            </lg>
+            <lg>
+               <l>Then Mault began to tell his mind,</l>
+               <l>And plide them with Ale, Beere and Wine,</l>
+               <l>They left Brick, axe and Trowell behind,</l>
+               <l>they could not lay a bricke ſir.</l>
+            </lg>
+            <lg>
+               <l>Then came the Labourer out with his hood,</l>
+               <l>And ſaw his two maſters how they ſtood,</l>
+               <l>He tooke maſter Mault by the whood,</l>
+               <l>and ſwore he would him ſtricke ſir.</l>
+            </lg>
+            <lg>
+               <l>Mault he ran and for feare did weep,</l>
+               <l>The Labourer he did ſkip and leape,</l>
+               <l>But Mault caſt him into the morter heape,</l>
+               <l>and there he fell aſléepe ſir.</l>
+            </lg>
+            <lg>
+               <l>The Butcher came to buy a ſhéepe:</l>
+               <l>He ſaid he would make Mault to créepe,</l>
+               <l>But Mault made him the cat to whip,</l>
+               <l>you neuer ſaw the like ſir.</l>
+            </lg>
+            <lg>
+               <l>The Glouer came to buy a ſkin,</l>
+               <l>Mault hit him right aboue the chin,</l>
+               <l>The pewter Iohn came doubling in,</l>
+               <l>you neuer ſaw the like ſir.</l>
+            </lg>
+            <lg>
+               <l>And laid on head, armes, and ioynts,</l>
+               <l>Tooke away his gloues, and groſſe of points,</l>
+               <l>And ſwore they had paid him in quarts and pints</l>
+               <l>you neuer ſaw the like ſir.</l>
+            </lg>
+            <lg>
+               <l>Thus of my ſong I will make an end,</l>
+               <l>And pray my hoſteſſe to be my friend;</l>
+               <l>To giue me ſome drink now my mony is ſpend</l>
+               <l>then Mault and I am quite ſir.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="ballad">
+            <pb n="343" facs="tcp:183097:1" rendition="simple:additions"/>
+            <head>A pleaſant new Ballad to ſing both Even and Morne, Of the bloody murther of Sir <hi>John Barley-corne.</hi>
+            </head>
+            <opener>To the tune of, <hi>Shall I lye beyond thee.</hi>
+            </opener>
+            <p>
+               <figure>
+                  <figDesc>depiction of a man</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>AS I went through the North Coun<g ref="char:EOLhyphen"/>trey,</l>
+               <l>I heard a merry greeting:</l>
+               <l>A pleaſant toy, and full of ioy,</l>
+               <l>two noble men were méeting.</l>
+            </lg>
+            <lg>
+               <l>And as they walked for to ſport,</l>
+               <l>vpon a Sommers day,</l>
+               <l>Then with another nobleman</l>
+               <l>they went to make a fray,</l>
+            </lg>
+            <lg>
+               <l>Whoſe name was ſir Iohn Barley-corne,</l>
+               <l>he dwelt downe in a dale:</l>
+               <l>Who had a kinſman dwelt him nigh,</l>
+               <l>they cal'd him Thomas Goodale.</l>
+            </lg>
+            <lg>
+               <l>Another named Richard Béere,</l>
+               <l>was ready at that time:</l>
+               <l>Another worthy Knight was there,</l>
+               <l>call'd ſir William White Wine.</l>
+            </lg>
+            <lg>
+               <l>Some of them fought in a blacke Iacke,</l>
+               <l>ſome of them in a Can:</l>
+               <l>But the chiefeſt in a blacke pot,</l>
+               <l>like a worthy noble man.</l>
+            </lg>
+            <lg>
+               <l>Sir Iohn Barly-corne fought in a Boule,</l>
+               <l>who wonne the victorie:</l>
+               <l>And made them all to fume and ſweare,</l>
+               <l>that Barly-corne ſhould die.</l>
+            </lg>
+            <lg>
+               <l>Some ſaid kill him, ſome ſaid drowne,</l>
+               <l>others wiſht to hang him hée:</l>
+               <l>For as many as fo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>low Barly-corne,</l>
+               <l>ſhall ſurely begggers die.</l>
+            </lg>
+            <lg>
+               <l>Then with a plough they plowed him vp</l>
+               <l>and thus they did deuiſe,</l>
+               <l>To burie him quicke within the earth,</l>
+               <l>and ſwore he ſhould not riſe.</l>
+            </lg>
+            <lg>
+               <l>With horrowes ſtrong they combed him</l>
+               <l>and burſt clods on his head:</l>
+               <l>A ioyfull banquet then was made,</l>
+               <l>when Barly-corne was dead.</l>
+            </lg>
+            <lg>
+               <l>He reſted ſtill within the earth,</l>
+               <l>till raine from ſkies did fall,</l>
+               <l>Then he grew vp in branches gréene,</l>
+               <l>which ſore amaz'd them all,</l>
+            </lg>
+            <lg>
+               <l>And ſo grew vp till Mid-ſommer,</l>
+               <l>which made them all afeard:</l>
+               <l>For he was ſprouted vp on hie,</l>
+               <l>and got a goodly beard.</l>
+            </lg>
+            <lg>
+               <l>Then he grew till S. <hi>Iames</hi> tide,</l>
+               <l>his countenance was wan,</l>
+               <l>For he was growne vnto his ſtrength,</l>
+               <l>and thus became a man.</l>
+            </lg>
+            <lg>
+               <l>With hookes and ſickles kéene,</l>
+               <l>into the field they hide,</l>
+               <l>They cut his legs off by the knées,</l>
+               <l>and made him wounds full wide.</l>
+            </lg>
+            <lg>
+               <l>Thus bloodily they cut him downe</l>
+               <l>from place where he did ſtand,</l>
+               <l>And like a thiefe for treachery,</l>
+               <l>they bound him in a band.</l>
+            </lg>
+            <lg>
+               <l>So then they tooke him vp againe,</l>
+               <l>according to his kind:</l>
+               <l>And packt him vp in ſeuerall ſtackes,</l>
+               <l>to wither with the wind.</l>
+            </lg>
+            <lg>
+               <l>And with a pitch-forke that was ſharpe,</l>
+               <l>they rent him to the heart,</l>
+               <l>And like a thiefe for treaſon vile,</l>
+               <l>they bound him in a cart.</l>
+            </lg>
+            <lg>
+               <l>And tending him with weapons ſtrong,</l>
+               <l>vnto the towne they hie,</l>
+               <l>And ſtraight they mowed him in a mow</l>
+               <l>and there they let him lie.</l>
+            </lg>
+            <lg>
+               <l>Then he lay groning by the wals,</l>
+               <l>till all his wounds were ſore,</l>
+               <l>At length they tooke him vp againe,</l>
+               <l>and caſt him on the floore.</l>
+            </lg>
+            <lg>
+               <l>They hyred two with holly clubs,</l>
+               <l>to beat on him at once,</l>
+               <l>They thwacked ſo on Barly-corne,</l>
+               <l>that fleſh fell from the bones.</l>
+            </lg>
+            <lg>
+               <l>And then they tooke him vp againe,</l>
+               <l>to fulfill womens minde</l>
+               <l>They duſted and they ſifted him,</l>
+               <l>till he was almoſt blind.</l>
+            </lg>
+            <lg>
+               <l>And then they knit him in a ſacke,</l>
+               <l>which grieued him full ſore:</l>
+               <l>They ſtéep'd him in a Fat, God wot<g ref="char:punc">▪</g>
+               </l>
+               <l>for thrée dayes ſpace and more.</l>
+            </lg>
+            <lg>
+               <l>Then they tooke him vp againe,</l>
+               <l>and laid him for to drie,</l>
+               <l>They caſt him on a chamber floore,</l>
+               <l>and ſwore that he ſhould die.</l>
+            </lg>
+            <lg>
+               <l>They rubbed and they ſtirred him,</l>
+               <l>and ſtill they did him turne.</l>
+               <l>The Malt-man ſwore that he ſhould die,</l>
+               <l>his body he would burne.</l>
+            </lg>
+            <lg>
+               <l>They ſpightfully tooke him vp againe,</l>
+               <l>and threw him on a Kill:</l>
+               <l>So dried him there with fire hot,</l>
+               <l>and thus they wraught their will.</l>
+            </lg>
+            <lg>
+               <l>Then they brought him to the mill,</l>
+               <l>and there they burſt his bones,</l>
+               <l>The Miller ſwore to murther him</l>
+               <l>betwixt a paire of ſtones.</l>
+            </lg>
+            <lg>
+               <l>Then they tooke him vp againe,</l>
+               <l>and ſeru'd him worſe then that,</l>
+               <l>For with hot ſcalding liquor ſtore</l>
+               <l>they waſht him in a Fat.</l>
+            </lg>
+            <lg>
+               <l>But not content with this God wot.</l>
+               <l>that did him mickle harme,</l>
+               <l>With threatning words they promiſed</l>
+               <l>to beat him into barme.</l>
+            </lg>
+            <lg>
+               <l>And lying in this danger déep,</l>
+               <l>for feare that he ſhould quarrell,</l>
+               <l>They tooke him ſtraight out of the fat,</l>
+               <l>and tunn'd him in a barrell,</l>
+            </lg>
+            <lg>
+               <l>And then they ſet a tap to him,</l>
+               <l>euen thus his death begun:</l>
+               <l>They drew out euery dram of blood,</l>
+               <l>whilſt any drop would run,</l>
+            </lg>
+            <lg>
+               <l>Some brought iacks vpon their backs,</l>
+               <l>ſome brought bill and bow,</l>
+               <l>And euery man his weapon had,</l>
+               <l>Barly-corne to ouerthrow.</l>
+            </lg>
+            <lg>
+               <l>When ſir Iohn Good-ale heard of this,</l>
+               <l>he came with mickle might,</l>
+               <l>And there he tooke their tongues away,</l>
+               <l>their legs or elſe their ſight.</l>
+            </lg>
+            <lg>
+               <l>And thus ſir Iohn in each reſpect</l>
+               <l>ſo paid them all their hire,</l>
+               <l>That ſome lay ſléeping by the way.</l>
+               <l>ſome tumbling in the mire.</l>
+            </lg>
+            <lg>
+               <l>Some lay groning by the wals,</l>
+               <l>ſome in the ſtréets downe right,</l>
+               <l>The beſt of them did ſcarcely know</l>
+               <l>what they had done ore-night.</l>
+            </lg>
+            <lg>
+               <l>All you good wiues that brew good ale</l>
+               <l>God turne from you all teens<g ref="char:punc">▪</g>
+               </l>
+               <l>But if you put too much water in,</l>
+               <l>the deuill put out your eyne.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London Printed for <hi>Iohn Wright,</hi> an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are to be ſold at his ſhop in <hi>Guilt-ſpurre</hi> ſtreet at the ſigne of the Bible.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
